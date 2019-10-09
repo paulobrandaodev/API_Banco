@@ -1,0 +1,14 @@
+C:\Users\Constantine\Desktop\api_banco\bin\Debug\netcoreapp2.2\api_banco.deps.json
+C:\Users\Constantine\Desktop\api_banco\bin\Debug\netcoreapp2.2\api_banco.runtimeconfig.json
+C:\Users\Constantine\Desktop\api_banco\bin\Debug\netcoreapp2.2\api_banco.runtimeconfig.dev.json
+C:\Users\Constantine\Desktop\api_banco\bin\Debug\netcoreapp2.2\api_banco.dll
+C:\Users\Constantine\Desktop\api_banco\bin\Debug\netcoreapp2.2\api_banco.pdb
+C:\Users\Constantine\Desktop\api_banco\obj\Debug\netcoreapp2.2\api_banco.csprojAssemblyReference.cache
+C:\Users\Constantine\Desktop\api_banco\obj\Debug\netcoreapp2.2\api_banco.csproj.CoreCompileInputs.cache
+C:\Users\Constantine\Desktop\api_banco\obj\Debug\netcoreapp2.2\api_banco.RazorAssemblyInfo.cache
+C:\Users\Constantine\Desktop\api_banco\obj\Debug\netcoreapp2.2\api_banco.RazorAssemblyInfo.cs
+C:\Users\Constantine\Desktop\api_banco\obj\Debug\netcoreapp2.2\api_banco.AssemblyInfoInputs.cache
+C:\Users\Constantine\Desktop\api_banco\obj\Debug\netcoreapp2.2\api_banco.AssemblyInfo.cs
+C:\Users\Constantine\Desktop\api_banco\obj\Debug\netcoreapp2.2\api_banco.RazorTargetAssemblyInfo.cache
+C:\Users\Constantine\Desktop\api_banco\obj\Debug\netcoreapp2.2\api_banco.dll
+C:\Users\Constantine\Desktop\api_banco\obj\Debug\netcoreapp2.2\api_banco.pdb
